@@ -1,0 +1,5 @@
+name : mylapalli jyothish
+suc  : 2352320122
+age  : 21
+class: bsc-b
+roll : 24
